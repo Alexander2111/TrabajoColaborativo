@@ -5,7 +5,8 @@
 
 * Jugar Futbol
 * Escuchar musica
-* Jugar con mi perro 
+* Jugar con mi perro
+* Tonear 
 
 ## Cita favorita
 
