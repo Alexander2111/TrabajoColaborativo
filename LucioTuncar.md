@@ -7,6 +7,7 @@
 *Comer
 *Tocar musica 
 *Leer
+*Jugar cod mobile
 
 ## Cita Favorita 
 > El cafe con leche es cafe pero con leche. - Paulo Cohelo 
