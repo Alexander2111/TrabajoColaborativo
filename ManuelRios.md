@@ -7,6 +7,7 @@
 * Jugar futbol
 * Videojuegos
 * Dormir
+* Comer
 
 ## Cita favorita
 
